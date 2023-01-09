@@ -1,1 +1,2 @@
-# John the ripper
+# John The Ripper
+Penetration testing tools.
